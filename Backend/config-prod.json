@@ -1,0 +1,11 @@
+{
+  "isProduction": true,
+  "isDevelopment": false,
+  "mongodb": {
+    "connectionString": ""
+  },
+  "bot": {
+    "name": "Smart Guy",
+    "avatar": "SG"
+  }
+}
